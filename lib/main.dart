@@ -146,7 +146,7 @@ void main(){
             Text("Your World",
             style: TextStyle(color: Colors.green),),
             Text("Our World",
-            style: TextStyle(color: Colors.blue),)
+            style: TextStyle(color: Colors.purple),)
           ]
         ),
       ),
